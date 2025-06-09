@@ -13,3 +13,5 @@ Materia3 = 4.5
 calificacion = (Materia1 + Materia2 + Materia3) / 3
 
 print("SU calificacion es: ", calificacion)
+
+print("Paso el año")
