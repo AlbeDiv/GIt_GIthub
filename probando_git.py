@@ -14,8 +14,4 @@ calificacion = (Materia1 + Materia2 + Materia3) / 3
 
 print("SU calificacion es: ", calificacion)
 
-<<<<<<< HEAD
-print("Paso el año")
-=======
-print("preparando cambios v4")
->>>>>>> 529737f (cambios)
+print("preparando cambios v4 2024 - 2025")
