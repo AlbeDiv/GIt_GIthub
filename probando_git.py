@@ -15,3 +15,5 @@ calificacion = (Materia1 + Materia2 + Materia3) / 3
 print("SU calificacion es: ", calificacion)
 
 print("preparando cambios v4 2024 - 2025")
+
+print("Estudiante pasi el año")
